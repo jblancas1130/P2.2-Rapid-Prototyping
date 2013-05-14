@@ -1,4 +1,4 @@
-P2.2-Rapid-Prototyping
+378-Bootstrap-Template
 ======================
 
-P2 REDO
+New practice template from 4/18/13
